@@ -15,6 +15,8 @@ https://github.com/Kiteretsu77/APISR
 https://arxiv.org/abs/2403.01598
 
 ### 🖼 Output
+![Screenshot 2024-03-19 055145](https://github.com/camenduru/APISR-jupyter/assets/54370274/bab83318-b32f-4048-b0c3-5dab5e33867f)
+![Screenshot 2024-03-19 055212](https://github.com/camenduru/APISR-jupyter/assets/54370274/b90cdf0f-690f-44ce-b377-8da02855813d)
 
 ### 🏢 Sponsor
 https://modelslab.com
